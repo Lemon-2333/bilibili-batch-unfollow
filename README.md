@@ -70,4 +70,4 @@ async function main(){for(var i=0;i<num_page;i++){ii=0,xx=$(".be-dropdown-item:c
 复制脚本，在下方粘贴：
 ![image](https://img2023.cnblogs.com/blog/3010098/202303/3010098-20230320180532961-2004371402.png)
 设置好你要取关的页数即可，注意由于是最后一页，所以页数是从最后一页往前计算。
-# 此脚本同时发布在GitHub仓库
+# 此脚本同时发布在cnblog博客:https://www.cnblogs.com/Lemon-233/p/17237265.html
